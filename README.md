@@ -26,7 +26,7 @@ Teste de Update Readme
 ## Stack
 This application uses the following technologies:
 - C# .Net
-- MongoDb
+- MongoDb 
 - Redis
 
 The application also interacts with the following technologies:
