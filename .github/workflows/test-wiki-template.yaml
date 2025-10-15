@@ -3,6 +3,10 @@ name: Test Wiki Template
 on:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  actions: write
+
 jobs:
   run-template:
     uses: carlosfranquinho/wiki-template/.github/workflows/WikiDocumentation.yaml@main
