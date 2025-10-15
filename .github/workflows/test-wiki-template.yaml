@@ -13,4 +13,5 @@ jobs:
     with:
       app_name: wiki-sample
       base_path: Pedro/Aplicações
-    secrets: inherit
+    secrets:
+      WIKI_API_TOKEN: ${{ secrets.WIKI_API_TOKEN }}
