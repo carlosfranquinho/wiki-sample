@@ -11,7 +11,7 @@ jobs:
   run-template:
     uses: carlosfranquinho/wiki-template/.github/workflows/WikiDocumentation.yaml@main
     with:
-      app_name: wiki-sample-number-20
+      app_name: wiki-sample-number-21
       base_path: Pedro/Aplicações
     secrets:
       WIKI_API_TOKEN: ${{ secrets.WIKI_API_TOKEN }}
