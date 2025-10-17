@@ -8,7 +8,7 @@ Teste de Update Readme
 [Link to applications wiki](https://wiki.internal.ctt.pt/en/Technology/Engenharia-de-Software/Aplica%C3%A7%C3%B5es/Overview)
 
 ## Main functionalities
-- Store data in the schema you want!!!
+- Store data in the schema you want!!!!
 - API to create, update and delete entities and their data
 - Register entities (Ex: countries, holidays, stores, etc.)
 - Manage the data of each registered entity
