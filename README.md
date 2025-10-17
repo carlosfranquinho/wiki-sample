@@ -3,7 +3,7 @@ An application that simplifies managing a commercial catalog, regardless of the 
 
 ## Applications wiki
 --------------------
---- Teste update 5 ---
+--- Teste update 6 ---
 
 [Link to applications wiki](https://wiki.internal.ctt.pt/en/Technology/Engenharia-de-Software/Aplica%C3%A7%C3%B5es/Overview)
 
